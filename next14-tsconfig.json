@@ -1,0 +1,10 @@
+{
+  "extends": "./base-tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "paths": {
+      "@/components/*": ["components/*"],
+      "@/hooks/*": ["hooks/*"]
+    }
+  }
+}

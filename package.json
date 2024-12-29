@@ -1,0 +1,18 @@
+{
+  "name": "@mehdi/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript configurations for Next.js projects",
+  "main": "base-tsconfig.json",
+  "files": [
+    "base-tsconfig.json",
+    "next13-tsconfig.json",
+    "next14-tsconfig.json"
+  ],
+  "keywords": ["typescript", "tsconfig", "nextjs", "config"],
+  "author": "mahdihasanpour",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/tsconfig"
+  }
+}
